@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antbenar
 - 👀 I’m interested in Computer Vision, Deep Learning and Software development.
-- 🌱 I’m working as Software depeloper using PHP on Casa Andina Hotels. also, I am currently learning React.js and Java Backend development.
+- 🌱 I’m working as Full Stack Software depeloper using PHP.
 - 💞️ I’m looking to collaborate on web app projects.
 
 <!---
